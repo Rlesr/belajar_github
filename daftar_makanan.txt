@@ -2,5 +2,6 @@ Daftar Makanan Favorit
   1.Nasi goreng
   2.ayam penyet 
   3.Rendang
-  4.Geprek
+  4.hamburger
   5.Mie ayam
+  
